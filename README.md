@@ -85,6 +85,9 @@ Function paletizado_z
 	MemOff Out_12
 	Fend
 ```
+
+## Ejecucion en robot EPSON de rutinas programadas (videos).
+
 Simulacion de rutina Paletizado en z:
 
 https://github.com/jcardenash99/Robotica_2023-2_EPSON/assets/61796945/acba3911-4bf4-4ad7-8ba1-560536b4f4c4
@@ -130,11 +133,8 @@ https://github.com/jcardenash99/Robotica_2023-2_EPSON/assets/61796945/4702b4b0-6
 
 
 
-## Ejecucion en robot EPSON de rutinas programadas (videos).
 
 
-[Rutina pick and place velocidad 80% ].
-https://github.com/jcardenash99/Robotica_2023-2_EPSON/assets/143892609/923a6fa2-e65f-4f6b-8062-2cf857c21cde
 
 
 
