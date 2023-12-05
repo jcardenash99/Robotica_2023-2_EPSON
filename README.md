@@ -27,3 +27,11 @@ https://github.com/jcardenash99/Robotica_2023-2_EPSON/assets/143892609/923a6fa2-
 
 
 ## Conclusiones.
+
+•	Esta práctica permitió tener una visión de cómo la programación de robots en aplicaciones puede ser tan compleja o sencilla según el software de programación desarrollado por el fabricante del robot. Y que a partir de los fundamentos de robótica cada vez que se interactúa con un robot diferente es un camino de aprendizaje nuevo por recorrer, debido a que los softwares de programación no están integrados entre los diferentes fabricantes.
+
+
+
+
+
+
