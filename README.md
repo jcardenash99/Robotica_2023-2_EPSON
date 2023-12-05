@@ -20,10 +20,13 @@ Una vez realizada la parametrización puesto a punto se hizo una verificación s
 
 
 
+
 ## Ejecucion en robot EPSON de rutinas programadas (videos).
+
 
 [Rutina pick and place velocidad 80% ].
 https://github.com/jcardenash99/Robotica_2023-2_EPSON/assets/143892609/923a6fa2-e65f-4f6b-8062-2cf857c21cde
+
 
 
 ## Conclusiones.
