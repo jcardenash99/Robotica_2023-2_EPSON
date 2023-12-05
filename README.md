@@ -130,6 +130,24 @@ https://github.com/jcardenash99/Robotica_2023-2_EPSON/assets/61796945/4702b4b0-6
 Como pudimos observar el robot Epson se puede programar en diferentes tipos de rutinas de desplazamiento para pick an place, el paletizado es una rutina en la que el robot toma un producto y lo ubica en una paleta la cual es una plataforma de varias posiciones organizadas sobre su superficie usada para el almacenaje de productos.
 
 En la practica pudimos observar 2 velocidades, en la realidad tenemos un conjunto de porcentajes de velocidad maxima, como se puede observar en la practica tenemos una velocidad baja la cual corresponde alrededor del 20%-30% de la velocidad, mientras que la velocidad alta corresponde al 60%-80% de la velocidad maxima, en este caso en particular no se pudo usar la maxima velocidad dado a que el robot no poseia un soporte lo suficiente mente firme, como se podia apreciar en la practica a la velocidad alta el la base tembalaba con los movimientos del robot.
+## Cogigo software EPSON
+
+
+
+
+
+## Ejecucion en robot EPSON de rutinas programadas (videos).
+
+
+[Rutina pick and place velocidad 80% ].
+https://github.com/jcardenash99/Robotica_2023-2_EPSON/assets/143892609/923a6fa2-e65f-4f6b-8062-2cf857c21cde
+
+
+
+## Conclusiones.
+
+•	Esta práctica permitió tener una visión de cómo la programación de robots en aplicaciones puede ser tan compleja o sencilla según el software de programación desarrollado por el fabricante del robot. Y que a partir de los fundamentos de robótica cada vez que se interactúa con un robot diferente es un camino de aprendizaje nuevo por recorrer, debido a que los softwares de programación no están integrados entre los diferentes fabricantes.
+
 
 
 
